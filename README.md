@@ -24,14 +24,14 @@
 <div align="center">
   <!-- GitHub 数据统计 -->
   
-  <img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TravelTibet&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+  <img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?https://streak-stats.demolab.com/username=TravelTibet&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
   
   <img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TravelTibet&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   
   
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=TravelTibet&theme=ocean-gradient&border_radius=3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=121592512&theme=ocean-gradient&border_radius=3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <!-- 奖杯-->
 <!--
