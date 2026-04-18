@@ -17,8 +17,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TravelTibet/TravelTibet/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-
 ## GitHub数据
 
 <div align="center">
@@ -30,9 +28,8 @@
   
   
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=121592512&theme=ocean-gradient&border_radius=3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=121592512&theme=tokyonight&hide_border=%E7%A1%AE%E5%AE%9E%E5%A6%82%E6%AD%A4&locale=zh_Hans&short_numbers=%E9%94%99%E8%AF%AF&card_width=695)](https://git.io/streak-stats)
 <!-- 奖杯-->
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=TravelTibet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
