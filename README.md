@@ -43,7 +43,7 @@
 <tr><td>
 
 ### 🤺 About Me
-<p>&emsp;&emsp;嗨，你好，我是zhizhi2213同学。喜欢编程、摄影、小说、游戏、花切，键盘。</p> 
+<p>&emsp;&emsp;嗨，你好，我是121592512同学。喜欢编程、摄影、小说、游戏、花切，键盘。</p> 
 <p>&emsp;&emsp;痴迷于用代码构建有趣的事物，也享受镜头下的光影故事；在虚拟的游戏世界中冒险，也在现实里用纸牌玩出花式切牌的流畅手感；时而沉浸在小说的无尽宇宙，时而在各种机械键盘的敲击声中寻找灵感与乐趣。</p>
 <p>&emsp;&emsp;我相信技术与热爱都能让生活更丰满，愿始终怀抱好奇与创造，做一个认真的建造者与玩家。</p> 
 <p>&emsp;&emsp;We're making the world a better place. Through coding, playing, and creating with passion and heart.</p>
@@ -56,11 +56,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Feb 11 - [MyBatis源码深度解析](https://zhizhi2213.github.io/static/posts/MyBatis源码深度解析/)
-- Feb 11 - [ThreadLocal异步场景问题解析](https://zhizhi2213.github.io/static/posts/ThreadLocal异步场景问题解析/)
-- Feb 10 - [Spring IOC与AOP详解](https://zhizhi2213.github.io/static/posts/Spring-IOC与AOP详解/)
-- Feb 09 - [Spring源码中的设计模式详解](https://zhizhi2213.github.io/static/posts/Spring源码中的设计模式详解/)
-- Feb 09 - [HashMap源码分析](https://zhizhi2213.github.io/static/posts/HashMap源码分析/)
+
 <!-- feed end -->
 
 </td></tr>
