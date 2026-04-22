@@ -133,15 +133,13 @@ No Activity Tracked This Week
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/assets/images/right.png" />
 
-<img src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/github-metrics/base.svg" />
-
 <table>
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhizhi2213&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhizhi2213&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhizhi2213&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=121592512&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=121592512&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=121592512&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
